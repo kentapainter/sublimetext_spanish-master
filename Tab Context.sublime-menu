@@ -1,0 +1,13 @@
+[
+	{ "command": "close_by_index", "args": { "group": -1, "index": -1 }, "caption": "Cerrar" },
+	{ "command": "close_others_by_index", "args": { "group": -1, "index": -1 }, "caption": "Cerrar todos excepto este" },
+	{ "command": "close_to_right_by_index", "args": { "group": -1, "index": -1 }, "caption": "Cerrar todos a la derecha" },
+	{ "command": "close_unmodified", "args": { "group": -1 }, "caption": "Cerrar Guardado" },
+	{ "command": "close_unmodified_to_right_by_index", "args": { "group": -1, "index": -1 }, "caption": "Cerrar todos los elementos guardados a la derecha" },
+	{ "command": "close_deleted_files", "args": { "group": -1 }, "caption": "Cerrar archivos eliminados" },
+	{ "caption": "-" },
+	{ "command": "clone_file", "args": { "add_to_selection": true, "group": -1, "index": -1 }, "caption": "Duplicar una pestaña" },
+	{ "caption": "-" },
+	{ "command": "new_file", "caption": "Nuevo" },
+	{ "command": "prompt_open_file", "caption": "Abrir archivo…" }
+]

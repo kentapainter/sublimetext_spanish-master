@@ -1,0 +1,14 @@
+Menú español para Sublime Text 4
+
+Este es un complemento de localización a español para Sublime Text 4.
+Se basa en el archivo de traducción japonesa de [Yuugai Blog](http://blog.huwy.org/article/292827228.html).
+
+Pasos
+1. C:\Users\nombre de usuario\AppData\Roaming\Sublime Text\Packages\spanish_localization,
+	Pegar aqui. *Si la carpeta predeterminada no existe, créela.
+
+*En Mac OS, reemplace esto con /Usuarios/nombre de usuario/Library/Application Support/Sublime Text/Packages/*.
+*Si está utilizando la versión portátil, reemplace la ruta con la ruta donde se extrajo el archivo zip.
+*La carpeta Paquetes también se puede abrir desde el menú de Sublime Text "Preferencias > Explorar paquetes..."
+
+Eso es todo.
