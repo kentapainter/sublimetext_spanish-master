@@ -25,3 +25,7 @@ Traducción al español de los menús de Sublime Text 4.
 ## Desinstalación
 
 - Borra los directorios "Default" y "User/Spanish Localization" del directorio Packages.
+
+## Problema
+
+Al terminar de revisar y utilizar el paquete por alguna razon no sustituye algunas opciones del Original Ingles. No encuentro en la documentacion como comprobar esto, y las opciones nuevas de la Build 4192, no se como se llaman. Este codigo es tomado de un proyecto antiguo sin soporte del idioma japones, rescatado por kik0220 y termine llevandolo como pude a la version 4.
